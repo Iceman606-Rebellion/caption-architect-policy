@@ -1,9 +1,14 @@
-# Caption Architect Privacy Policy
+# Caption Architect – Legal Documents
 
-This repository contains the official Privacy Policy for the Caption Architect app, developed by Outlaw606.
+This repository stores the public Privacy Policy required for publishing Caption Architect on Google Play.
 
-The policy explains how user data is handled, how AI text generation works, and how in-app purchases are processed through Google Play Billing.
+## Contents
+- privacy.html — Full Privacy Policy
 
-View the Privacy Policy:
+## App Info
+Developer: Iceman606 Studio
+App: Caption Architect
+Platform: Android (Google Play)
 
+## Live Policy Link
 https://github.com/Iceman606-Rebellion/caption-architect-policy.git
